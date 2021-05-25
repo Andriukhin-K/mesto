@@ -1,0 +1,10 @@
+.element__title {
+    line-height: 29px;
+    margin: 0;
+    font-family: inter, Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: 900;
+    font-style: normal;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    overflow: hidden;
+}

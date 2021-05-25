@@ -1,0 +1,24 @@
+.header {
+    width: calc(100% - 400px);
+    padding: 45px 0 0 0;
+    margin: 0 auto;
+}
+
+@media all and (max-width: 1124px) {
+    .header {
+        width: calc(100% - 120px)
+    }
+} 
+
+@media all and (max-width: 800px) {
+    .header { 
+        width: calc(100% - 100px)
+    }
+} 
+
+@media all and (max-width: 540px) {
+    .header {
+        width: calc(100%);
+        padding: 28px 0 0 0;  
+    }
+}
