@@ -1,4 +1,4 @@
-.popup__input_name {
+.input_job {
     border: none;
     border-bottom: 1px solid #000000;
     opacity: 0.2;
@@ -7,7 +7,7 @@
 }
 
 @media all and (max-width: 540px) {
-    .popup__input_name {
+    .input_job {
         margin: 22px 0 0 30px;
         width: 238px;
     }

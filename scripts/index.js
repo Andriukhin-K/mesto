@@ -17,8 +17,8 @@ function formPopup() {} // Находим форму в DOM
 const containerPopup = document.querySelector(".popup__container");
 const savePopup = containerPopup.querySelector('.popup__save'); // Воспользуйтесь методом querySelector()
 // Находим поля формы в DOM
-const nameInput = containerPopup.querySelector(".input__name"); // Воспользуйтесь инструментом .querySelector()
-const jobInput = containerPopup.querySelector(".input__job"); // Воспользуйтесь инструментом .querySelector()
+const nameInput = containerPopup.querySelector(".input_name"); // Воспользуйтесь инструментом .querySelector()
+const jobInput = containerPopup.querySelector(".input_job"); // Воспользуйтесь инструментом .querySelector()
 const nameProfile = document.querySelector(".profile__name");
 const textProfile = document.querySelector(".profile__text");
 // Обработчик «отправки» формы, хотя пока
