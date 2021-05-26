@@ -6,13 +6,13 @@
 
 @media all and (max-width: 1124px) {
     .header {
-        width: calc(100% - 120px)
+        width: calc(100% - 120px);
     }
 } 
 
 @media all and (max-width: 800px) {
     .header { 
-        width: calc(100% - 100px)
+        width: calc(100% - 100px);
     }
 } 
 
