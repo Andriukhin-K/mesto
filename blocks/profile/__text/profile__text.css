@@ -13,7 +13,7 @@
     overflow: hidden;
 }
 
-@media all and (max-width: 540px) {
+@media all and (max-width: 685px) {
     .profile__text {
         margin: 0 auto;
         font-size: 14px;

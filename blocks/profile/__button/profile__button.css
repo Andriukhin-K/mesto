@@ -24,7 +24,7 @@
     }
 }
 
-@media all and (max-width: 540px) {
+@media all and (max-width: 685px) {
     .profile__button {
         background-image: url(../../../images/Add\ ButtonEdit.svg);
         width: 282px;

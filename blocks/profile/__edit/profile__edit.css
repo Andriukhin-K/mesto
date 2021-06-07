@@ -21,7 +21,7 @@
 
 @media all and (max-width: 540px) {
     .profile__edit {
-        background-image: url(../../../images/elbrus.png);
+        background-image: url(../../../images/Edit\ Button.svg);
         width: 14px;
         height: 14px;
     }

@@ -17,7 +17,7 @@
     }
 } 
 
-@media all and (max-width: 800px) {
+@media all and (max-width: 959px) {
     .elements { 
         width: calc(100% - 100px);
         grid-template-columns: repeat(2, 1fr);
@@ -25,7 +25,7 @@
     }
 } 
 
-@media all and (max-width: 540px) {
+@media all and (max-width: 685px) {
     .elements {
         width: calc(100% - 38px);
         grid-template-columns: repeat(1, 1fr);

@@ -13,13 +13,13 @@
         "text .";
 }
 
-@media all and (max-width: 800px) {
+@media all and (max-width: 884px) {
     .profile__info { 
         margin: 0 58px 0 0;
     }
 }
 
-@media all and (max-width: 540px) {
+@media all and (max-width: 685px) {
     .profile__info {
         margin: 0 auto;
         row-gap: 14px;
